@@ -50,6 +50,7 @@ Contributions are more than welcome! If you find any issues, have suggestions fo
 For more information on design patterns, check out the medium series to learn all patterns with Rick Sanchez's help:
 
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Abstract Factory Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-abstract-factory-edition-fdad996c4c20)
+- [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Builder Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-builder-edition-1c0e71b466b0)
 
 ## 📄 License
 
