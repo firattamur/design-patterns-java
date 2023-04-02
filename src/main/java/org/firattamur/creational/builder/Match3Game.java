@@ -19,6 +19,14 @@ public class Match3Game {
         this.boardHeight = boardHeight;
     }
 
+    public Match3Game(Builder builder) {
+        this.time  = builder.time;
+        this.level = builder.level;
+        this.score = builder.score;
+        this.boardWidth = builder.boardWidth;
+        this.boardHeight = builder.boardHeight;
+    }
+
     @Override
     public String toString() {
         return "Match3Game{" +
@@ -79,7 +87,7 @@ public class Match3Game {
         }
 
         public Match3Game build() {
-            return new Match3Game(this.time, this.level, this.score, this.boardWidth, this.boardHeight);
+            return new Match3Game(this);
         }
 
     }
