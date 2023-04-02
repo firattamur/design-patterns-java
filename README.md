@@ -10,7 +10,7 @@ The repository is organized into three main categories: Creational, Structural, 
 
 - Creational Patterns:
     - [X] Abstract Factory
-    - [ ] Builder
+    - [X] Builder
     - [ ] Factory Method
     - [ ] Prototype
     - [ ] Singleton
