@@ -4,7 +4,7 @@ This repository is a comprehensive collection of design pattern examples impleme
 
 ## 📂 Structure
 
-The repository is organized into three main categories: Creational, Structural, and Behavioral patterns. Each category contains a dedicated folder with sub-folders for each pattern. The sub-folders include a `src` directory containing the Java source code implementing the pattern, and a `README.md` file that provides an overview, use cases, and a brief explanation of the pattern's functionality.
+The repository is organized into three main categories: Creational, Structural, and Behavioral patterns. Each category contains a dedicated folder with sub-folders for each pattern.
 
 ## 🧩 Patterns Included
 
