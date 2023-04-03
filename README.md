@@ -11,7 +11,7 @@ The repository is organized into three main categories: Creational, Structural, 
 - Creational Patterns:
     - [X] Abstract Factory
     - [X] Builder
-    - [ ] Factory Method
+    - [X] Factory Method
     - [ ] Prototype
     - [ ] Singleton
 
@@ -51,6 +51,7 @@ For more information on design patterns, check out the medium series to learn al
 
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Abstract Factory Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-abstract-factory-edition-fdad996c4c20)
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Builder Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-builder-edition-1c0e71b466b0)
+- [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Factory Method Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-factory-edition-d9cc53e3e2b9)
 
 ## 📄 License
 
