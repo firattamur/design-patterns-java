@@ -16,7 +16,7 @@ The repository is organized into three main categories: Creational, Structural, 
     - [X] Singleton
 
 - Structural Patterns:
-    - [ ] Adapter
+    - [X] Adapter
     - [ ] Bridge
     - [ ] Composite
     - [ ] Decorator
@@ -49,11 +49,17 @@ Contributions are more than welcome! If you find any issues, have suggestions fo
 
 For more information on design patterns, check out the medium series to learn all patterns with Rick Sanchez's help:
 
+### Creational:
+
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Abstract Factory Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-abstract-factory-edition-fdad996c4c20)
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Builder Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-builder-edition-1c0e71b466b0)
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Factory Method Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-factory-edition-d9cc53e3e2b9)
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Prototype Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-prototype-edition-c82c0b143f60)
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Singleton Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-singleton-edition-d2cf9666522f)
+
+### Structural:
+
+- [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Adapter Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-adapter-edition-986a14e74008)
 
 ## 📄 License
 
