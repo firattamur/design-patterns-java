@@ -17,7 +17,7 @@ The repository is organized into three main categories: Creational, Structural, 
 
 - Structural Patterns:
     - [X] Adapter
-    - [ ] Bridge
+    - [X] Bridge
     - [ ] Composite
     - [ ] Decorator
     - [ ] Facade
@@ -60,6 +60,7 @@ For more information on design patterns, check out the medium series to learn al
 ### Structural:
 
 - [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Adapter Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-adapter-edition-986a14e74008)
+- [CodeVenture: Rick’s Interdimensional Guide to Design Patterns — Bridge Edition.](https://firattamur.medium.com/codeventure-ricks-interdimensional-guide-to-design-patterns-bridge-edition-765881444c93)
 
 ## 📄 License
 
